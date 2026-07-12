@@ -12,3 +12,6 @@ next-env.d.ts
 
 # Solana project wallet keypairs
 /wallets/
+
+# env files
+.env*.local
