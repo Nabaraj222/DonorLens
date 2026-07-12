@@ -10,8 +10,5 @@
 *.tsbuildinfo
 next-env.d.ts
 
-# env
-.env*.local
-
-# Solana project wallet keypairs — NEVER commit
+# Solana project wallet keypairs
 /wallets/
